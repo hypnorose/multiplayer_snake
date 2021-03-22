@@ -1,0 +1,4 @@
+﻿  Źródło.cpp
+c:\users\marcin\source\repos\klient\klient\źródło.cpp(15): warning C4091: "typedef ": zignorowano na lewo od "clientData" podczas gdy brak deklaracji zmiennej
+c:\users\marcin\source\repos\klient\klient\źródło.cpp(93): warning C4715: "handleReceive”: niewszystkie ścieżki kodu zwracają wartość
+  klient.vcxproj -> C:\Users\Marcin\source\repos\klient\Debug\klient.exe
